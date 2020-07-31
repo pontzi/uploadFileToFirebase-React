@@ -6,4 +6,4 @@
 - `npm start` to open environment.
 
 * In the index.js you must add your Firebase configuration
-  Developed by Ismael Ponce
+##### Developed by Ismael Ponce
